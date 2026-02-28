@@ -1,0 +1,54 @@
+.forget {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+.forget:hover{
+    color: blue;
+    text-decoration: underline;
+    cursor:cell;
+    border-radius: 10%;
+}
+button{
+    font-size:10px;
+    color: white;
+    background-color: rgb(166, 227, 239);
+    border: none;
+    border-radius:25px ;
+    width:10% ;
+}
+input{
+    border-color: black;
+    color:black;
+    background-color:whitesmoke;
+    border-width:5px;
+    height: 30px;
+    width: 30%;
+    border-radius: 10px;
+
+}
+#para{
+    font-size:x-large;
+    color: blue;
+}
+
+.form-conrol{
+    display: flex;
+    flex-direction: column;
+}
+.login-card{
+    border:1px  solid blue;
+    width:50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+   
+    

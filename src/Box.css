@@ -1,0 +1,31 @@
+
+.background {
+  height: 100vh;
+  background-color: #6fa8e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+table {
+  border-collapse: collapse;
+  width: 750px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+th {
+  background-color: #9f92f5;
+  color: white;
+}

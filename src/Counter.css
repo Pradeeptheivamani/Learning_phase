@@ -1,0 +1,37 @@
+
+.page-light {
+  background-color:whitesmoke;
+  min-height: 100vh;
+
+}
+
+.page-dark {
+  background-color: #1e1e1e;
+  min-height: 100vh;
+}
+
+
+.counter {
+  width: 50%;
+  height:30%;
+  
+}
+
+.btn-counter {
+  width: 70%;
+  height: 5vh;
+}
+
+.box-dark {
+  width: 70%;
+  height: 30vh;
+  background-color: black;
+  color: azure;
+}
+
+.box-white {
+  width: 70%;
+  height: 30vh;
+  background-color: blue;
+  color: whitesmoke;
+}
