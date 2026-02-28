@@ -5,7 +5,7 @@ const Box = () => {
   return (
     <div className="background">
       <div className="box">
-        <h1>state vs props</h1>
+        <h1>state vs Props</h1>
         <table>
           <thead>
             
